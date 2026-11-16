@@ -5,6 +5,7 @@
 安装：
 
 ```bash
+brew tap xiaomiaiazhao-tech/tap
 brew install --cask xiaomiaiazhao-tech/tap/disk-lens
 ```
 
