@@ -10,7 +10,7 @@ cask "disk-lens" do
   desc "Local disk-space analysis and reviewed cleanup for macOS"
   homepage "https://github.com/xiaomiaiazhao-tech/disk-lens"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "空间镜.app"
 
